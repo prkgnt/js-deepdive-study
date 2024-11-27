@@ -18,8 +18,9 @@
 ```
 **질문**
 <details>
-<summary>펼치기</summary>
+<summary>정답</summary>
 
 답변
 </details>
+<br>
 ```
